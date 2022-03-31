@@ -6,10 +6,7 @@ using namespace std;
 // A STRUCT is used to define an object
 // An OBJECT is a variable that holds multiple values
 
-struct Product {
-    string name;
-    double price;
-}; 
+ 
 
 //structs end with ;
 
@@ -20,13 +17,9 @@ struct Product {
 
 int main()
 {
-    Product milk;
-    milk.name = "2% Milk";
-    milk.price = 2.99;
+    //Create 2 Products
 
-    Product oreos;
-    oreos.name = "Double Stuff Oreos";
-    oreos.price = 3.50;
+
 
     // You try: Make 3 more Products
 
