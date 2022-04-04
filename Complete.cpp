@@ -35,7 +35,7 @@ int main()
     butter.price = 3.99;
 
     Product peeps;
-    peeps.name = "Marshmallow Peets";
+    peeps.name = "Marshmallow Peeps";
     peeps.price = 0.99;
 
     Product pbcups;
